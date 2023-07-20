@@ -24,6 +24,10 @@ Copy the generated password to use it in your desired application, such as onlin
 # How it Works
 The application uses JavaScript to handle the password generation process. It includes an array of special characters, numeric characters, lowercase characters, and uppercase characters. Based on the user's selections, the application combines these character arrays and ensures that at least one character from each selected type is included in the generated password. The remaining characters are then randomly selected from the available character pool to meet the desired password length. Finally, the password is shuffled to enhance its randomness.
 
+# Screenshot of the working random password generator app
+![Screenshot_Random_Password_Generator](https://github.com/Dave-Tercey/password-generator/assets/132531240/ba3845a6-5031-4008-9bbd-6423ddc0380b)
+
+
 # Contributions
 Contributions to this project are welcome. If you find any bugs, have ideas for improvements, or wish to add new features, please feel free to open an issue or submit a pull request.
 
